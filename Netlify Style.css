@@ -1,0 +1,97 @@
+.body{
+}
+.parent{
+    background-color: #F5F5F5;
+    display:flex ;
+    
+}
+
+
+.container{
+    background-color: #F5F5F5;
+    margin-top: 3.5rem;
+    width: 100%;
+}
+
+/* -------- USER BIO---------- */
+.userbio{
+    display: flex;
+    padding: 1%;
+    gap: 0.8rem;
+    align-items: center;
+}
+
+.userbio img{
+    border-color: #F5F5F5;
+    border-width: 2px;
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 360px;
+    width: 40px;
+}
+
+.userbio p{
+    font-size: 0.8rem;
+}
+
+/*-----------items----------------*/
+.boxOne-itemone{
+    background-color: #733FC8;
+    color: #ffffff;
+    margin-right: 2rem;
+    border-radius: 15px;
+    padding: 20px;
+    
+    
+    
+}
+
+.boxOne-itemtwo{
+    background-color: #49556B;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.boxtwo-itemone{
+    background-color: white;
+    color: rgb(7, 7, 7);
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.boxtwo-itemtwo{
+    background-color: #191F2C;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 1.5rem;
+}
+
+.container-Item-one{
+    background-color:#F5F5F5(254, 254, 254);
+    margin-left: 6rem;
+}
+.container-Item-two{
+    background-color: #ffffff;
+    color: black;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 1.5rem;
+
+}
+ .container{
+    display: flex;
+
+}
+
+.boxOne {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+
+.boxTwo{
+    display: flex;
+    margin-top: 3rem;
+}
